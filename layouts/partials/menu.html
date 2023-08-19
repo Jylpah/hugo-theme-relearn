@@ -154,8 +154,11 @@
           {{- range $pages }}
             {{- $isSelfSub := eq .RelPermalink $currentFileRelPermalink }}
             {{- $isAncestorSub := and (not $isSelf) (.IsAncestor $currentNode) }}
+
+			{{- $isSubChild := eq .Parent $currentNode }}
+
             {{- $relearnIsSubHiddenFrom := index ($currentNode.Scratch.Get "relearnIsHiddenFrom") .RelPermalink }}
-            {{- $subHidden := and $relearnIsSubHiddenFrom (not $.showhidden) (not $isSelfSub) (not $isAncestorSub) }}
+            {{- $subHidden := and $relearnIsSubHiddenFrom (not $.showhidden) (not $isSelfSub) (not $isAncestorSub) (not $isSubChild) }}
             {{- $numberOfVisibleChildren = add $numberOfVisibleChildren (int (not $subHidden)) }}
           {{- end }}
           {{- safeHTML .Params.head }}
