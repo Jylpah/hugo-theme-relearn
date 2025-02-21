@@ -16,6 +16,12 @@ other = "{1} találat a(z) \"{0}\" kifejezésre"
 [Clear-History]
 other = "Előzmények törlése"
 
+[Reset-view]
+other = "Nézet visszaállítása"
+
+[View-reset]
+other = "Visszaállítás megtekintése!"
+
 [Clear-search]
 other = "Keresések törlése"
 
@@ -34,10 +40,19 @@ other = "Menj a kezdőlapra"
 [Edit-this-page]
 other = "Szerkesztés"
 
+[Show-Markdown]
+other = "Markdown megjelenítése"
+
+[Show-source]
+other = "Forráskód megjelenítése"
+
 [Print-this-chapter]
 other = "Teljes fejezet nyomtatása"
 
-[Shortcuts-Title]
+[More-action]
+other = "Egyebek"
+
+[shortcuts-menuTitle]
 other = "Egyebek"
 
 [Expand-title]
@@ -58,11 +73,17 @@ other = "KB"
 [Megabyte-symbol]
 other = "MB"
 
-[note]
-other = "Jegyzet"
+[caution]
+other = "Vigyázat"
+
+[important]
+other = "Fontos"
 
 [info]
 other = "Infó"
+
+[note]
+other = "Jegyzet"
 
 [tip]
 other = "Tipp"
@@ -108,3 +129,6 @@ other = "Kategóriák"
 
 [category]
 other = "Kategória"
+
+[Details]
+other = "Részletek"

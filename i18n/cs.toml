@@ -19,6 +19,12 @@ other = "{1} výsledků pro \"{0}\""
 [Clear-History]
 other = "Vymazat historii"
 
+[Reset-view]
+other = "Obnovit zobrazení"
+
+[View-reset]
+other = "Resetovat zobrazení!"
+
 [Attachments-label]
 other = "Přílohy"
 
@@ -34,10 +40,19 @@ other = "Přejít na domovskou stránku"
 [Edit-this-page]
 other = "Upravit"
 
+[Show-Markdown]
+other = "Zobrazit Markdown"
+
+[Show-source]
+other = "Zobrazit zdrojový kód"
+
 [Print-this-chapter]
 other = "Vytisknout kapitolu"
 
-[Shortcuts-Title]
+[More-action]
+other = "Více"
+
+[shortcuts-menuTitle]
 other = "Více"
 
 [Expand-title]
@@ -58,11 +73,17 @@ other = "KB"
 [Megabyte-symbol]
 other = "MB"
 
-[note]
-other = "Poznámka"
+[caution]
+other = "Upozornění"
+
+[important]
+other = "Důležité"
 
 [info]
 other = "Info"
+
+[note]
+other = "Poznámka"
 
 [tip]
 other = "Tip"
@@ -108,3 +129,6 @@ other = "Kategorie"
 
 [category]
 other = "Kategorie"
+
+[Details]
+other = "Podrobnosti"

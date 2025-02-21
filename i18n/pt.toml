@@ -19,6 +19,12 @@ other = "{1} resultados encontrados para \"{0}\""
 [Clear-History]
 other = "Limpar Histórico"
 
+[Reset-view]
+other = "Repor vista"
+
+[View-reset]
+other = "Ver reposição!"
+
 [Attachments-label]
 other = "Anexos"
 
@@ -34,10 +40,19 @@ other = "Ir para o início"
 [Edit-this-page]
 other = "Editar"
 
+[Show-Markdown]
+other = "Mostrar Markdown"
+
+[Show-source]
+other = "Mostrar código-fonte"
+
 [Print-this-chapter]
 other = "Imprimir capítulo inteiro"
 
-[Shortcuts-Title]
+[More-action]
+other = "Mais"
+
+[shortcuts-menuTitle]
 other = "Mais"
 
 [Expand-title]
@@ -58,11 +73,17 @@ other = "KB"
 [Megabyte-symbol]
 other = "MB"
 
-[note]
-other = "Nota"
+[caution]
+other = "Cuidado"
+
+[important]
+other = "Important"
 
 [info]
 other = "Informação"
+
+[note]
+other = "Nota"
 
 [tip]
 other = "Dica"
@@ -108,3 +129,6 @@ other = "Categorias"
 
 [category]
 other = "Categoria"
+
+[Details]
+other = "Detalhes"

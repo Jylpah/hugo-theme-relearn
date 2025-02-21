@@ -19,6 +19,12 @@ other = "Ditemukan {1} hasil untuk \"{0}\""
 [Clear-History]
 other = "Bersihkan Riwayat"
 
+[Reset-view]
+other = "Setel ulang tampilan"
+
+[View-reset]
+other = "Lihat ulang!"
+
 [Attachments-label]
 other = "Lampiran"
 
@@ -34,10 +40,19 @@ other = "Ke halaman depan"
 [Edit-this-page]
 other = "Mengedit"
 
+[Show-Markdown]
+other = "Tampilkan Markdown"
+
+[Show-source]
+other = "Tampilkan kode sumber"
+
 [Print-this-chapter]
 other = "Mencetak seluruh bab"
 
-[Shortcuts-Title]
+[More-action]
+other = "Lainnya"
+
+[shortcuts-menuTitle]
 other = "Lainnya"
 
 [Expand-title]
@@ -58,11 +73,17 @@ other = "KB"
 [Megabyte-symbol]
 other = "MB"
 
-[note]
-other = "Nota"
+[caution]
+other = "Perhatian"
+
+[important]
+other = "Penting"
 
 [info]
 other = "Info"
+
+[note]
+other = "Nota"
 
 [tip]
 other = "Ujung"
@@ -108,3 +129,6 @@ other = "Kategori"
 
 [category]
 other = "Kategori"
+
+[Details]
+other = "Rincian"
